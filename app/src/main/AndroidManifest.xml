@@ -18,6 +18,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".GameSetup"
+            android:label="@string/title_activity_game_setup"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RoundScoreboard"
+            android:label="@string/title_activity_round_scoreboard"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Timer"
+            android:label="@string/title_activity_timer"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

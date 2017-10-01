@@ -5,11 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.master167.michael.boardgameaid.MainPage"
-    tools:showIn="@layout/activity_main_page">
+    tools:context="com.master167.michael.boardgameaid.GameSetup"
+    tools:showIn="@layout/activity_game_setup">
 
     <TextView
-        android:text="This is the main page activity"
+        android:text="This is the game setup page"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"

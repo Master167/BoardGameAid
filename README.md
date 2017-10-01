@@ -8,4 +8,4 @@ Git repo for a mobile application I decided to create.
 * Turn order
 * Round Timer
 
-I figured it would be an easy applicaiton to stay in practice.
+I figured it would be an easy application to stay in practice.
